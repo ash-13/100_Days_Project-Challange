@@ -30,6 +30,10 @@ C. Start learning that skill from the Platform of your choice (Platform will hel
 D. After Completingm, repate till 100 days
 
 ## Using the git repo
+A. Just folk or download this repo
+B. Add a folder of your name like '01_Ashish_Sapra'
+C. Make the project folder like 'Learning_Kubernates' or 'Drawing_Skills'
+D. Make a file for each day or add all days in one Day and tell what did you learn from it
 
 ## Rules
 1. You have to declare the skill on any social media platform
